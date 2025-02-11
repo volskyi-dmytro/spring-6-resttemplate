@@ -1,4 +1,4 @@
-package guru.springframework.spring6resttemplate;
+package com.stpunk47.spring6resttemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package guru.springframework.spring6resttemplate.model;
+package com.stpunk47.spring6resttemplate.model;
 
 import lombok.Builder;
 import lombok.Data;
@@ -7,9 +7,6 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @Builder
 @Data
 public class BeerDTO {
